@@ -1,4 +1,3 @@
 import './bootstrap';
 
-import 'bootstrap';
-import '@fortawesome/fontawesome-free/js/all';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
